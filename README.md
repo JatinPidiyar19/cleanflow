@@ -51,3 +51,7 @@ Validate Result
 Generate Cleaning Report
      ↓
 Download Cleaned Data
+
+## Live App
+
+[Open CleanFlow](https://cleanflow-jatinpidiar.streamlit.app/)
