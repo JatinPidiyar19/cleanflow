@@ -1,0 +1,6 @@
+Name,Department,Age,Salary,Join_Date,City
+Alice,Engineering,25,55000,2024-01-15,Mumbai
+Bob,Sales,31,62000,2023-06-20,Pune
+Charlie,Engineering,28,58000,2022-09-10,Mumbai
+Diana,HR,35,70000,2021-03-12,Nashik
+Eve,Sales,29,60000,,Pune
